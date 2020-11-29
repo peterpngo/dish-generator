@@ -11,7 +11,7 @@ protein=['Salmon','Tilapia','Pork Loin',"63 Degree Egg","Ahi Tuna","Albacore Tun
 "Red Snapper","Redfish","Salami","Salmon","Scallops","Scrambled Egg","Sea Bass","Sea Bream","Shark","Shrimp","Skate","Smoked Bacon",
 "Smoked Duck Leg","Smoked Turkey","Snapper","Snow Crab","Soft Boiled Egg","Squid","Striped Bass","Sturgeon","Sunny Side Up Egg",
 "Surimi","Tilefish","Trout","Tuna","Turbot","Turkey Legs","Uni","Venison","Venison Loin","Wahoo","Whitefish","Yellowfin Tuna","Soft Tofu",
-"Firm Tofu"]
+"Firm Tofu", "Goat"]
 
 vegetable=["Beet","Acorn Squash","Alfalfa Sprouts","Amrud","Artichoke","Arugula","Asparagus","Aubergine (Eggplant)","Banana Squash",
 "Bean Sprouts","Beet Greens (Chard)","Bell Pepper","Bitter Melon","Bok Choy","Broccoflower","Broccoli (Calabrese)",
