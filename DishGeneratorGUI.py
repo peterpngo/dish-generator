@@ -9,6 +9,8 @@ import os
 os.system('cls')
 
 root = Tk()
+root.title("Dish Generator")
+
 colFrame = ttk.Frame(root, width=150)
 colFrame1 = ttk.Frame(root, width=150)
 colFrame2 = ttk.Frame(root, width=150)
